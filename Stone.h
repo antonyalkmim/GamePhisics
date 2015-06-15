@@ -8,10 +8,6 @@ class Stone
         Stone(){}
 
         ~Stone(){}
-
-        /*
-         * Encapsulamento
-         */
 };
 
 #endif // STONE_H
