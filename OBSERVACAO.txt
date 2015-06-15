@@ -1,2 +1,0 @@
-Saidas formatadas; Jogo funcionando aparentemente correto;
-Testar com mais casos de testes;
